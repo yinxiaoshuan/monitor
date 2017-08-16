@@ -65,8 +65,7 @@
 	</properties>
 
 	<modules>
-		<module>pzj-monitor-mybatis</module>
-		<module>pzj-monitor-redis</module>
-		<module>pzj-monitor-rocketmq</module>
+		<module>monitor-mybatis</module>
+		<module>monitor-rocketmq</module>
 	</modules>
 </project>
