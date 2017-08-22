@@ -1,4 +1,4 @@
-package com.pzj.framework.monitor.mybatis;
+package com.framework.monitor.mybatis;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.Properties;
@@ -13,9 +13,9 @@ import org.apache.ibatis.plugin.Signature;
 import org.apache.ibatis.session.ResultHandler;
 import org.apache.ibatis.session.RowBounds;
 
-import com.pzj.framework.monitor.mybatis.event.MonitorEventTrigger;
-import com.pzj.framework.monitor.mybatis.event.MonitorSource;
-import com.pzj.framework.monitor.mybatis.helper.ConstantTable;
+import com.framework.monitor.mybatis.event.MonitorEventTrigger;
+import com.framework.monitor.mybatis.event.MonitorSource;
+import com.framework.monitor.mybatis.helper.ConstantTable;
 
 /**
  * 

@@ -1,8 +1,8 @@
-package com.pzj.framework.monitor.mybatis;
+package com.framework.monitor.mybatis;
 
 import java.util.Arrays;
 
-import com.pzj.framework.monitor.mybatis.helper.Identifier;
+import com.framework.monitor.mybatis.helper.Identifier;
 
 public class SQLInfo
 {

@@ -1,7 +1,20 @@
+/target/
+bin/
+
+.idea/
+*.iml
+.svn
+/.svn/
+.settings/
+.classpath
+.DS_Store
+.project
+
 # Compiled class file
 *.class
 
 # Log file
+/logs/
 *.log
 
 # BlueJ files

@@ -59,7 +59,7 @@
 	<properties>
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-		<project.jdk.version>1.8</project.jdk.version>
+		<project.jdk.version>1.7</project.jdk.version>
 
 		<junit.version>4.11</junit.version>
 	</properties>

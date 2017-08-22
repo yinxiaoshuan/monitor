@@ -1,4 +1,4 @@
-package com.pzj.framework.monitor.mybatis;
+package com.framework.monitor.mybatis;
 
 /**
  * 基本类型转换器. 主要实现字符串转基本数据类型.
