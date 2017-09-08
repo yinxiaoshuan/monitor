@@ -46,12 +46,12 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>Nexus.Releases</id>
-			<url>http://10.0.18.22:8081/nexus/content/repositories/releases/</url>
+			<id>Releases</id>
+			<url>http://192.168.1.101:8081/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
-			<id>Nexus.Snapshots</id>
-			<url>http://10.0.18.22:8081/nexus/content/repositories/snapshots/</url>
+			<id>Snapshots</id>
+			<url>http://192.168.1.101:8081/nexus/content/repositories/snapshots/</url>
 			<uniqueVersion>true</uniqueVersion>
 		</snapshotRepository>
 	</distributionManagement>
@@ -67,5 +67,6 @@
 	<modules>
 		<module>monitor-mybatis</module>
 		<module>monitor-rocketmq</module>
+		<module>monitor-httpool</module>
 	</modules>
 </project>
