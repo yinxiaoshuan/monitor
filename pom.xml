@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.framework</groupId>
-	<artifactId>pzj-monitor</artifactId>
-	<version>1.0.0-RELEASE</version>
+	<groupId>com.free-knight.framework</groupId>
+	<artifactId>free-knight-monitor</artifactId>
+	<version>1.0.1-RELEASE</version>
 	<packaging>pom</packaging>
 	<name>监控</name>
 
@@ -65,8 +65,8 @@
 	</properties>
 
 	<modules>
-		<module>monitor-mybatis</module>
-		<module>monitor-rocketmq</module>
-		<module>monitor-httpool</module>
+		<module>free-knight.monitor-mybatis</module>
+		<module>free-knight.monitor-rocketmq</module>
+		<module>free-knight.monitor-httpool</module>
 	</modules>
 </project>
