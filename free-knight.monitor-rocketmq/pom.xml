@@ -8,11 +8,4 @@
 	</parent>
 	<artifactId>free-knight.monitor-rocketmq</artifactId>
 	<name>RocketMQ监控插件</name>
-
-	<dependencies>
-	</dependencies>
-
-	<properties>
-	</properties>
-
 </project>

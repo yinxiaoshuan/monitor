@@ -5,6 +5,7 @@
 		<groupId>com.free-knight.framework</groupId>
 		<artifactId>free-knight-monitor</artifactId>
 		<version>1.0.1-RELEASE</version>
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 	<artifactId>free-knight.monitor-mybatis</artifactId>
 	<name>SQL监控插件</name>
